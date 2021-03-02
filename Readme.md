@@ -33,9 +33,9 @@ verified and continuously monitored by a group of specialists at the Tanzil proj
   | ID                    | The number of Aya in sura                       |
   </br>
  ## View <br />
-- Demo => https://eq19.github.io/core/mushaf.xml <br />
+- [Demo](https://eq19.github.io/core/mushaf.xml)<br />
 - With CSS: <br />
-![With CSS](https://github.com/yassersaidi/Mushaf-XML-XSL-CSS-DTD/blob/master/Demo%20Pics/XML%20With%20CSS.png) <br />
+![With CSS](https://github.com/eq19/core/blob/master/Demo%20Pics/XML%20With%20CSS.png) <br />
 - With XSL: <br />
 ![With XSL](https://github.com/yassersaidi/Mushaf-XML-XSL-CSS-DTD/blob/master/Demo%20Pics/XML%20With%20XSLT.png) <br />
 

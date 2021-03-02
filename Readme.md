@@ -37,7 +37,7 @@ verified and continuously monitored by a group of specialists at the Tanzil proj
 - With CSS: <br />
 ![With CSS](https://github.com/eq19/core/blob/master/Demo%20Pics/XML%20With%20CSS.png) <br />
 - With XSL: <br />
-![With XSL](https://github.com/yassersaidi/Mushaf-XML-XSL-CSS-DTD/blob/master/Demo%20Pics/XML%20With%20XSLT.png) <br />
+![With XSL](https://github.com/eq19/core/blob/master//Demo%20Pics/XML%20With%20XSLT.png) <br />
 
 ## To Best Results
 
